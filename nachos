@@ -1,0 +1,34 @@
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="707" tvg-logo="http://static.epg.best/de/TLC.de.png" ,TLC
+https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
+#EXTINF:-1 tvg-id="701" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#EXTINF:-1 tvg-id="&amp;Flix HD" tvg-logo="https://tinyurl.com/46xbzvdu",&FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="And prive HD"  tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/10/privehd-logo.jpg" ,&PRIVé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="411"  tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+
+
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN"  tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN"  tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN"  tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+
+#EXTINF:-1 tvg-id="708" tvg-logo="https://4.bp.blogspot.com/-e2dA3I8pNaE/UOtt9ju0bcI/AAAAAAAAUfM/QT-MOq9_ypk/s1600/Food+Network+logo+2003.png",Food Network
+https://list.iptvcat.com/my_list/s/4a511af17cf62aa83c17a2373fcc7f3f.m3u8
+#https://nonton.site:8443/Ainamanja/RPLf79Gusm/37411
