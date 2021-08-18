@@ -10,7 +10,7 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF:-1 tvg-id="Babyfirst" tvg-logo="https://logodix.com/logo/1067746.png",BABYFIRST
-http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/2170892
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="&amp;Flix HD" tvg-logo="https://tinyurl.com/46xbzvdu",&FLIX HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
