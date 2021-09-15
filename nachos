@@ -13,7 +13,8 @@ https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 https://list.iptvcat.com/my_list/s/869de6f92a9eee29ea13ab3a4ba6caf2.m3u8
 
 #EXTINF:-1 tvg-id="&amp;Flix HD" tvg-logo="https://tinyurl.com/46xbzvdu",&FLIX HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+http://watchindia.net:8880/live/33253/72963/2088.m3u8
+#https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="And prive HD"  tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/10/privehd-logo.jpg" ,&PRIVé HD
 http://watchindia.net:8880/live/33253/72963/2103.ts
