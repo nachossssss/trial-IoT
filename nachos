@@ -30,6 +30,18 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/603ef0de115bdc7aec7b7e82" tvg-name="Local Now Drama"  group-title="Drama",Local Now Drama
+https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/608c4bf45eb543248330aa74" tvg-name="Local Now Movies of the 80's"  group-title="Entertainment",Local Now Movies of the 80's
+https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/608c4c3ae8122069215d7888" tvg-name="Local Now Movies of the 90's"  group-title="Entertainment",Local Now Movies of the 90's
+https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607df5a93273c1288c732f59" tvg-name="Local Now Movies of the 2000s"  group-title="Entertainment",Local Now Movies of the 2000s
+https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607df6d8ec9c645c921ecaa3" tvg-name="Local Now Movies of the 2010s"  group-title="Entertainment",Local Now Movies of the 2010s
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607df855f79e4e217910dbe2" tvg-name="Local Now Movies of the 2020s"  group-title="Entertainment",Local Now Movies of the 2020s
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
 
 
 
