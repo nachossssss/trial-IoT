@@ -35,7 +35,8 @@ https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_key=2d13c814df4a0c2ce488b2eda052d710:2dc2a7617bde2ab00136ee689c56d789
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 
-
+#EXTINF:-1 ,UK: Food Network
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4389
 
 
 
