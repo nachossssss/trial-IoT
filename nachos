@@ -38,5 +38,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 #EXTINF:-1 ,UK: Food Network
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4389
 
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="ASTRO SPORTS",ASSP 1
+http://iptv.tvmalaysia.cc:80/penang189/penang189/9024
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="ASTRO SPORTS",ASSP 2
+http://iptv.tvmalaysia.cc:80/penang189/penang189/9025
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="ASTRO SPORTS",ASSP 3
+http://iptv.tvmalaysia.cc:80/penang189/penang189/9020
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="ASTRO SPORTS",ASSP 4
+http://iptv.tvmalaysia.cc:80/penang189/penang189/9026
+
 
 
