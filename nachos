@@ -21,7 +21,8 @@ https://linear03-playback.sooka.my/CH5/masterCH5.mpd
 #EXTINF:-1 tvg-id="Lifetime.MACAN" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/dmdgGrw/tyeer.png" ,Lifetime
 http://foctv.xyz:25510/Amir5641/YY5641/80
 
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Egg
+http://210.210.155.35/session/3dc625d6-e3ba-11ec-aead-b82a72d63267/uq2663/h/h22/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
