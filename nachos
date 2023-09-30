@@ -119,6 +119,48 @@ http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=156022&extension=
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100
 https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 506 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 600 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/600
+https://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 601 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
+https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 602 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/602
+https://linearjitp-playback.astro.com.my/dash-wv/linear/602/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 604 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/604
+https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 608 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/608
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 609 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/609
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 1000 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -185,6 +227,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1009/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1010
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1010/default_ott.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 1706 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1706
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1706/default_ott.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 2103 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -202,6 +250,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 2406 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 2505 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -233,11 +287,29 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 2606 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 2610 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 2700 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 2702 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2702
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 2709 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -395,32 +467,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/7807
 https://linearjitp-playback.astro.com.my/dash-wv/linear/7807/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 600 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 9983 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/600
-https://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9983
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 602 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/602
-https://linearjitp-playback.astro.com.my/dash-wv/linear/602/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 604 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/604
-https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 608 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/608
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing", 609 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/609
-https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
